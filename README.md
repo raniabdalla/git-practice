@@ -9,7 +9,7 @@ Table of Contents
 * [Usage](#usage)
 
 ## Requirements
-- [ ] Add requirements
+requirements
 
 ## Usage
 - [ ] Add usage instructions
